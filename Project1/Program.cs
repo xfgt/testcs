@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравей, свят! :Д");
+            Console.WriteLine("Здравей, свят!))");
         }
     }
 }
