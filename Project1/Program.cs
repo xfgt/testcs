@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравей само! ТЕСТ ТЕСТ");
+            Console.WriteLine("Здравей само! ТЕСТ !!!");
             // promqna ot Teodor branch
         }
     }
